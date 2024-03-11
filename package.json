@@ -1,0 +1,37 @@
+{
+  "name": "corcojs-qrcode-sample",
+  "version": "1.0.1",
+  "description": "A sample corcojs qr code generator implementation in JavaScript.",
+  "author": "Corco",
+  "main": "corcojs-qrcode.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corcovadoet/corcojs-qrcode-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/corcovadoet/corcojs-qrcode-sample/issues"
+  },
+  "keywords": [
+    "qr",
+    "qrcode-sample",
+    "generator",
+    "simple qr",
+    "npm qr JavaScript",
+    "js qr code"
+  ],
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "homepage": "https://github.com/corcovadoet/corcojs-qrcode-sample#readme"
+}
